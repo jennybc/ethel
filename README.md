@@ -1,6 +1,6 @@
 # ethel
 
-The goal of ethel is to do good things and have fun doing them.
+The goal of ethel is to do good things and have lots of fun doing them.
 
 ## Installation
 
