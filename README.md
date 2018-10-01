@@ -1,11 +1,11 @@
 # ethel
 
-The goal of ethel is to do good things and have lots of fun doing them.
+The goal of ethel is to do good things and a little bit of fun doing them.
 
 ## Installation
 
 You can install the released version of ethel from [CRAN](https://CRAN.R-project.org) with:
-
+lots
 ``` r
 install.packages("ethel")
 ```
