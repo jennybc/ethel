@@ -1,4 +1,4 @@
 # a comment
-x <- 1:5
+x <- 1:10
 mean(x)
-IQR(x)
+var(x)
