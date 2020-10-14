@@ -2,6 +2,8 @@
 
 The goal of ethel is to do good stuff and have fun doing it. Yay. Woot. Rise and shine.
 
+Toby is lying in the sun.
+
 ## Installation
 
 You can install the released version of ethel from [CRAN](https://CRAN.R-project.org) with:
