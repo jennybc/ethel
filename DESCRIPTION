@@ -1,11 +1,22 @@
 Package: ethel
 Version: 0.0.0.9000
 Title: What the Package Does (One Line, Title Case)
+Author: Jenny Bryan
+Maintainer: Jenny Bryan <jenny.f.bryan@gmail.com>
 Description: What the package does (one paragraph). More.
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
-URL: https://github.com/jennybc/ethel
+URL: https://github.com/jennybc/ethel,
+    https://jennybc.github.io/ethel/
 BugReports: https://github.com/jennybc/ethel/issues
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+RoxygenNote: 7.2.1
+Config/testthat/edition: 3
+Imports: 
+    dplyr (>= 1.0.99.9000)
